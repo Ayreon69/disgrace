@@ -1,0 +1,11 @@
+{
+  "name": "Disgrâce",
+  "short_name": "Disgrâce",
+  "description": "Au salon de la Duchesse, fais briller tes Maisons et fais tomber celles de tes rivaux.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2a1530",
+  "theme_color": "#2a1530",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
