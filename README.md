@@ -2,7 +2,7 @@
 
 **Au salon de la Duchesse, six Maisons se disputent sa faveur. Pousse tes alliées à la lumière, jette tes rivales dans l'ombre.**
 
-👉 **Jouer : pas encore en ligne** (adresse à venir)
+👉 **Jouer : https://disgrace.onrender.com** (la première ouverture peut prendre jusqu'à une minute, le temps que le serveur gratuit se réveille)
 
 Jeu de cartes multijoueur en ligne, de 2 à 5 joueurs (bots possibles), à jouer entre amis depuis un navigateur, sur téléphone ou ordinateur, sans compte ni installation.
 Inspiré d'un jeu de cartes de cour (création de fans, non officielle) : le nom, les six Maisons, les rôles, les desseins secrets, les dessins et tout l'univers visuel sont propres à ce jeu.
